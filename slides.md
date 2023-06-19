@@ -12,14 +12,14 @@ paginate: true
 # Visual Studio 2022
 
 
-[Obtener el código](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#get-your-code)
+- [Obtener el código](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#get-your-code)
 
-[Confirmación del trabajo](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#commit-your-work)
+- [Confirmación del trabajo](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#commit-your-work)
 
-[Compartir los cambios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#share-your-changes)
+- [Compartir los cambios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#share-your-changes)
 
 
-[Sincronización con otros usuarios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#sync-with-others)
+- [Sincronización con otros usuarios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2022#sync-with-others)
 
 
 
@@ -27,27 +27,27 @@ paginate: true
 ---
 # Visual Studio 2019 menu GIT
 
-[Obtener el código](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#get-your-code)
+- [Obtener el código](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#get-your-code)
 
 
-[Confirmación del trabajo](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#commit-your-work)
+- [Confirmación del trabajo](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#commit-your-work)
 
-[Compartir los cambios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#share-your-changes)
+- [Compartir los cambios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#share-your-changes)
 
-[Sincronización con otros usuarios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#sync-with-others)
+- [Sincronización con otros usuarios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-git-menu#sync-with-others)
 
 
 ---
 # Visual Studio 2019 Team Explorer
 
 
-[Obtener el código](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#get-your-code)
+- [Obtener el código](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#get-your-code)
 
-[Confirmación del trabajo](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#commit-your-work)
+- [Confirmación del trabajo](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#commit-your-work)
 
-[Compartir los cambios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#share-your-changes)
+- [Compartir los cambios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#share-your-changes)
 
-[Sincronización con otros usuarios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#sync-with-others)
+- [Sincronización con otros usuarios](https://learn.microsoft.com/es-es/azure/devops/repos/git/gitquickstart?view=azure-devops&tabs=visual-studio-2019-team-explorer#sync-with-others)
 
 
 
